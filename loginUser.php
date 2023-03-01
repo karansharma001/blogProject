@@ -1,5 +1,6 @@
 <?php
 
+// This is a test comment
 include "./connection.php";
 session_start();
 
